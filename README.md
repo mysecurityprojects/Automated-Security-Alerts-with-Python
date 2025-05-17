@@ -24,7 +24,12 @@ Based on current trends and the capabilities of Python in security automation, h
 10. **Anomalous User Behavior**
 
 
-**Scenario**: Late-Night File Access on Patient Records System at City General Hospital, a large busy hospital in a major metropolitan area. The Security Operations Center team monitors the hospital's IT systems around the clock. Sarah, is the new SOC analyst is on the night shift. At 3:15 AM, the automated Python security alert system triggers the folliowing message in the SOC console:
+**Scenario**: Late-Night File Access on Patient Records System at City General Hospital, a large busy hospital in a major metropolitan area. The Security Operations Center team monitors the hospital's IT systems around the clock. Sarah, the new SOC analyst is on the night shift. At 3:15 AM, the automated Python security alert system triggers the following message in the SOC console:
+
+
+
+
+
 
 
 
