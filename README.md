@@ -3,9 +3,6 @@
 Based on current trends and the capabilities of Python in security automation, here are ten common security alerts that are frequently detected and automated using Python. Code automation is critical for managing the high volume and sophistication of cybersecurity attacks and monitoring modern networks.
 
 
-
-
-
 1. **Multiple Failed Login Attempts**
 
 2. **Detection of Known Malicious IPs/Domains**
