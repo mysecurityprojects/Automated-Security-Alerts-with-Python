@@ -1,6 +1,6 @@
 # Automated-Security-Alerts-with-Python
 
-Based on current trends and the capabilities of Python in security automation, here are ten common security alerts that are frequently detected and automated using Python. Code automation is critical for managing the high volume and sophistication of cybersecurity attacks and monitoring modern networks.
+Based on current trends and the capabilities of Python in security automation, here are ten common security alerts that are frequently detected and automated using Python. Code automation is critical for managing the high volume and sophistication of cybersecurity attacks and monitoring modern networks. The purpose of the exercise below is to walk through how a security team might respond to and investigate suspicious network behavior using a Python security alert. 
 
 
 1. **Multiple Failed Login Attempts**
@@ -22,3 +22,5 @@ Based on current trends and the capabilities of Python in security automation, h
 9. **Data Exfiltration Indicators**
 
 10. **Anomalous User Behavior**
+
+The pu
