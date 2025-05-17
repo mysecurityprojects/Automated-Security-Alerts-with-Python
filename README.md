@@ -20,7 +20,7 @@ B. Suspicious Access: If Nurse Johnson is not scheduled to work that night or if
 
 **Escalation and Further Investigation**: Based on the suspicious findings, Sarah should escalate the alert to a senior SOC analyst. Further investigation might involve checking other log files for activity from Nurse Johnson's account, analyzing network traffic associated with the access using a SIEM tool and potentially locking Nurse Johnson's account until the activity can be verified as legitimate. 
 
-**Conclusion**: The Python script acted as an automated watchman. It was programmed to look for specific words related to activity that is being monitored and when it found one, it raised a red flag. 
+**Conclusion**: The Python script acts as an automated watchman. It is programmed to look for specific words related to network activity being monitored by the Security team and raises a red flag when specific words are logged. In this case, the word is "Accessed". 
 
 
 Based on current trends and the capabilities of Python in security automation, here are ten common security alerts that are frequently detected and automated using Python. Code automation is critical for managing the high volume and sophistication of cybersecurity attacks and monitoring modern networks. 
