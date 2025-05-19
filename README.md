@@ -18,7 +18,7 @@ The following is an example of how a security team might respond to and investig
 
 
 
-**The Investigation**: Sarah sees the following security alert pop up on her screen. This Python script tells us that a user named 'nurse_johnson' accessed a patient record for 'Jane Doe' at 3:15 AM. The alert came from the log files that track access to the hospital's sensitive patient records system. The keyword that triggered the alert was "accessed" which our Python script was set to look for. This is potentially suspicious because while some nurses may need to access records at this hour, it's worth investigating if Nurse Johnson should be accessing a specific patient's records in the middle of the night. Is she on duty at this hour? Does she have a legitimate reason to access this record at this specific time?
+**The Alert**: Sarah sees the security alert pop up on her screen. This Python script tells us that a user named 'nurse_johnson' accessed a patient record for 'Jane Doe' at 3:15 AM. The alert came from the log files that track access to the hospital's sensitive patient records system. The keyword that triggered the alert was "accessed" which our Python script was set to look for. This is potentially suspicious because while some nurses may need to access records at this hour, it's worth investigating if Nurse Johnson should be accessing a specific patient's records in the middle of the night. Is she on duty at this hour? Does she have a legitimate reason to access this record at this specific time?
 
 
 
